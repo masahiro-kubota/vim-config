@@ -1,3 +1,4 @@
+" sudo apt install vim-gtk3 # to use clipboard
 inoremap jj <Esc>
 set number
 set clipboard=unnamedplus
