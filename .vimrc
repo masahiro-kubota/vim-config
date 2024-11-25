@@ -7,3 +7,5 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set list listchars=tab:\▸\-
+
+nnoremap <C-F5> :w<CR>:!python3 %<CR>
